@@ -1,5 +1,5 @@
-# Birthday Card
+# Birthday Wishes
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/noobplus/pen/MWYGzeY](https://codepen.io/noobplus/pen/MWYGzeY).
+A Pen created on Git.io. Original URL: [https://tecsantoshkumar.github.io/birthday_wishes/).
 
-Birthday card for mom :)
+Birthday Wishes for mom :)
